@@ -1,7 +1,7 @@
 1. Create these folders: 
-~/.config/.vim/plugged/
-~/.config/nvim/init.vim
-~/.config/.vimrc
+- ~/.config/.vim/plugged/
+- ~/.config/nvim/init.vim
+- ~/.config/.vimrc
 
 2. Create simbolic links
 
