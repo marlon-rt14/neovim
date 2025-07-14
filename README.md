@@ -9,3 +9,8 @@
 ln -s ~/.config/.vimrc 
 ln -s ~/.config/.vim 
 ```
+
+MacOS
+brew install rust
+brew install wget
+npm install  -g eslint
