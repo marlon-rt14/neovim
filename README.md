@@ -18,6 +18,7 @@ More... (necessary to save files)
 - `npm install  -g eslint`
 - `npm install -g htmllint`
 - `npm install -g jsonlint`
+- `sudo apt install lazygit` o `brew install lazygit`
 
 DOCS
 [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig?tab=readme-ov-file)
