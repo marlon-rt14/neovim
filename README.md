@@ -15,9 +15,9 @@ brew install rust
 brew install wget
 
 More... (necessary to save files)
-npm install  -g eslint
-npm install -g htmllint
-npm install -g jsonlint
+`npm install  -g eslint`
+`npm install -g htmllint`
+`npm install -g jsonlint`
 
 DOCS
 [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig?tab=readme-ov-file)
